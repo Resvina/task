@@ -20,6 +20,7 @@ usage: slack_bot.py [-h] [-p PACKAGE] [-i] [-r] [-e] [-d DO] [-f FILE]
 list of argument
 
 optional arguments:
+
   -h, --help            show this help message and exit
   -p PACKAGE, --package PACKAGE
                         specify the package to download
