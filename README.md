@@ -17,30 +17,6 @@ usage: slack_bot.py [-h] [-p PACKAGE] [-i] [-r] [-e] [-d DO] [-f FILE]
                     [-P DESTFILE] [-m CHMOD] [-o CHOWN] [-b HOST] [-u USER]
                     [-s PASSWD]
 
-list of argument
-
-optional arguments:
-
-  -h, --help            show this help message and exit
-  -p PACKAGE, --package PACKAGE
-                        specify the package to download
-  -i, --install         set true for package installation
-  -r, --remove          set true for package removal
-  -e, --erase           set true for file removal
-  -d DO, --do DO        set service action
-  -f FILE, --file FILE  set file
-  -P DESTFILE, --destfile DESTFILE
-                        set Path
-  -m CHMOD, --chmod CHMOD
-                        change file permission
-  -o CHOWN, --chown CHOWN
-                        change file ownership
-  -b HOST, --host HOST  ip addr of remote host
-  -u USER, --user USER  username for the remote user
-  -s PASSWD, --passwd PASSWD
-                        passwd for the host
-
-
 
 
 I'll illustrate how to bring a simple hello world php on a web server:
